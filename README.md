@@ -1,7 +1,9 @@
 # Olá, eu sou Norton Vandré
 
 ```python
-from norton import programador
+class Programmer
+
+	def initialize() 
 	
 
 ```
