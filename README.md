@@ -1,6 +1,6 @@
 # Olá, eu sou Norton Vandré
 
-```python
+```ruby
 class Programmer
 
 	def initialize() 
