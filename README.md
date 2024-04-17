@@ -1,9 +1,12 @@
 # Olá, eu sou Norton Vandré
 
-```ruby
-class Programmer
+```python
+def programer():
+    return "olá, mundo"
 
-	def initialize() 
+print(programer())
+	
+	
 	
 
 ```
